@@ -1,2 +1,18 @@
-# RizzAI-The-Smart-Sassy-Chatbot
-A lightweight Python chatbot with a touch of humor and personality. It responds intelligently to simple commands like telling jokes, offering compliments, or giving witty comebacks — designed to showcase clean, readable code with a fun edge.
+# RizzAI — The Smart, Sassy Chatbot
+
+
+A clean, Python-based chatbot that responds to user messages with friendly and witty replies. Simple to run, easy to extend, and perfect as a beginner AI project.
+
+
+## Files
+- `rizzai.py` — main program
+- `requirements.txt` — dependencies (none required)
+- `.gitignore` — standard Python ignores
+
+
+## Setup & Run
+1. (Optional) Create virtual environment:
+```bash
+python3 -m venv venv
+source venv/bin/activate # macOS / Linux
+venv\Scripts\activate # Windows
